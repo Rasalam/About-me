@@ -47,3 +47,4 @@ Telegram: https://t.me/Sybur
 - [Автоматизированное тестирование](PDF/Sertificate_Automated_testing.pdf).
 - **[Тестировщик ПО](PDF/Sertificate_Sofware_tester.pdf).**
 
+![Jokes Card](https://readme-jokes.vercel.app/api)
