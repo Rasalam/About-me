@@ -6,7 +6,7 @@
 
 Резюме: 456
 
-Email: agnium@mail.ru  
+Email: sybur@mail.ru  
 
 Telegram: https://t.me/Sybur
 
