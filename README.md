@@ -24,7 +24,7 @@ Telegram: https://t.me/Sybur
     - написал тестовый фреймворк с использованием Faker и DBUtils;
     - используя паттерн "Page Object" и фреймворк Selenide автоматизировал 35 тестовых сценария для каждой СУБД;
     - по результатам тестирования создал [18 Issue](https://github.com/molottva/Diploma/issues) (18 баг-репортов);
-    - подготовил Отчет по результатам автоматизации с использованием **Allure**;
+    - подготовил Отчет по результатам автоматизации с использованием Allure;
 
 2. [Курсовая работа "Ручное тестирование веб-приложений"](https://docs.google.com/spreadsheets/d/1phPoBtO-5WpFAGjzUsEjwcGsD-OTPe0NCqoNlIsZgJ4/edit?usp=sharing).
    
