@@ -45,5 +45,6 @@ Telegram: https://t.me/Sybur
 - [Git - система контроля версий](PDF/Sertificate_Git_version_control_system.pdf).
 - [Java для тестировщиков](PDF/Sertificate_Java_for_testers.pdf).
 - [Автоматизированное тестирование](PDF/Sertificate_Automated_testing.pdf).
+- [Интерактивный тренажер по SQL](PDF/Sertificate_SQL.pdf).
 - **[Тестировщик ПО](PDF/Sertificate_Sofware_tester.pdf).**
 
